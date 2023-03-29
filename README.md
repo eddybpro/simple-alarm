@@ -1,2 +1,2 @@
 # simple-alarm
-### https://eddybpro.github.io/simple-alarm/
+### [Live site](https://eddybpro.github.io/simple-alarm/)
